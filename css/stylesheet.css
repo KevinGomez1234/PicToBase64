@@ -28,3 +28,8 @@ ul {
     border: solid;
     justify-content: space-evenly;
 }
+
+.center {
+    margin: auto;
+    padding: 20px;
+}
