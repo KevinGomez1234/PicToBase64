@@ -1,4 +1,3 @@
-var words = 0;
 window.addEventListener('DOMContentLoaded', () => {   
     const button = document.getElementById("button");
     button.addEventListener('click', fileUpload);
